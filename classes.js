@@ -9,7 +9,7 @@ class Plant {
     ellipse(0, 0, 5)
     line(0, 0, 0, -this.length)
     // Ersetze die Ellipse und die Linie mit
-    // etwas Interessanterem
+    // etwas Interessanterem.
     pop()
   }
   // Formuliere einige der folgenden
@@ -17,6 +17,4 @@ class Plant {
   grow() {}
   flourish() {}
   move() {}
-
-
 }
