@@ -14,3 +14,7 @@ function draw() {
 function mousePressed() {
   plants.push(new Plant(mouseX, mouseY))
 }
+
+/* 
+Gibt es Möglichkeiten, die Pflanzen zu steuern?  (z.B. Tastendruck)
+*/
